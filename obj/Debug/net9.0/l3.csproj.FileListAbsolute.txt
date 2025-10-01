@@ -12,3 +12,4 @@ C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\refint\l3.dl
 C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.pdb
 C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.genruntimeconfig.cache
 C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\ref\l3.dll
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.sourcelink.json
