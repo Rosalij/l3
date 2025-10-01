@@ -1,0 +1,14 @@
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\bin\Debug\net9.0\l3.exe
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\bin\Debug\net9.0\l3.deps.json
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\bin\Debug\net9.0\l3.runtimeconfig.json
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\bin\Debug\net9.0\l3.dll
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\bin\Debug\net9.0\l3.pdb
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.AssemblyInfoInputs.cache
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.AssemblyInfo.cs
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.csproj.CoreCompileInputs.cache
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.dll
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\refint\l3.dll
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.pdb
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\l3.genruntimeconfig.cache
+C:\Users\rosal\Documents\Webbutveckling\C# .NET\l3\obj\Debug\net9.0\ref\l3.dll
